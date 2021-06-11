@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Tasks.h">
+    <ClInclude Include="Tasks.сpp">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
