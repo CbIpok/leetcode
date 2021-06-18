@@ -1,4 +1,4 @@
-#include "../1880. Check if Word Equals Summation of Two Words/Tasks.ñpp"
+#include "../1880. Check if Word Equals Summation of Two Words/Source.cpp"
 #include <iostream>
 #include <cassert>
 int main()
